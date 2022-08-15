@@ -1,6 +1,6 @@
 {
-    "name": "viral/laravel-adminpanel",
-    "description": "The Laravel AdminPanel with API Boilerplate.",
+    "name": "adminpanel",
+    "description": "AdminPanel with API Boilerplate.",
     "keywords": [
         "framework",
         "laravel",

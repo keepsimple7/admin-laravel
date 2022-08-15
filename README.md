@@ -1,7 +1,7 @@
 # laravel-adminpanel
 
 ## Introduction
-* This is a laravel Admin Panel.
+* This is a Admin Panel using Laravel.
 * The project is taken to Laravel 5.5.
   
 ## Installation
@@ -27,3 +27,7 @@ Please check the official laravel installation guide for server requirements bef
 * Default User: `user@user.com`
 
 Password: `1234`
+
+## Contact
+
+keepsimple95@outlook.com
